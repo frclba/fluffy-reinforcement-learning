@@ -15,6 +15,13 @@ This is the code for [this](https://youtu.be/myydDX-us4o) video on Youtube by Si
 
 'npm install --only=production'
 
+### Step 2 - Installing Gekko broker's dependencies
+'cd exchange'  
+'npm install --only=production'  
+'cd ..'  
+
+
+
 ### Step 2 - Start the bot 
 
 'node gekko --ui'
